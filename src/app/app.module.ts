@@ -10,7 +10,7 @@ import { DatosComponent } from './components/datos/datos.component';
   declarations: [
     AppComponent,
     HomeComponent,
-    DatosComponent
+    DatosComponent,
   ],
   imports: [
     BrowserModule,
